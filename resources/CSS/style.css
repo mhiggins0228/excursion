@@ -1,0 +1,35 @@
+body{
+background-color: black;
+font-family:verdana; 
+color:white;
+text-align: center;
+}
+
+#cellphone{
+padding-top: 10px;
+}
+
+.download{
+color:aquamarine;
+font-size:16px;
+}
+
+h1{
+font-size:52px;
+}
+
+h2{
+font-size:42px
+}
+
+#excursion{
+color:gray;
+font-size:21px;
+}
+
+#copyright{
+color:gray;
+font-size:21px;
+text-align: right;
+padding-right:5px;
+}
